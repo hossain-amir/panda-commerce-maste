@@ -13,3 +13,17 @@
 .prize {
     color: #FF136F;
 }
+
+/* categories */
+
+.bag {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+.shoes {
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+.card {
+    border: none !important;
+}
